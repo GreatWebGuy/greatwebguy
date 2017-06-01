@@ -1,5 +1,5 @@
 +++
-date = "2017-04-02T11:55:02-04:00"
+date = "2009-04-02T11:55:02-04:00"
 title = "Prevent double submit with jQuery"
 draft = false
 categories = ["JavaScript", "jQuery"]
